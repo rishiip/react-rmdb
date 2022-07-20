@@ -1,0 +1,15 @@
+{
+  "main.js": "/static/js/main.0e579681.chunk.js",
+  "main.js.map": "/static/js/main.0e579681.chunk.js.map",
+  "static/js/1.c8f6c0a8.chunk.js": "/static/js/1.c8f6c0a8.chunk.js",
+  "static/js/1.c8f6c0a8.chunk.js.map": "/static/js/1.c8f6c0a8.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/no_image.jpg": "/static/media/no_image.31f5bb1d.jpg",
+  "static/media/react-movie-logo.svg": "/static/media/react-movie-logo.5de5919a.svg",
+  "static/media/tmdb_logo.svg": "/static/media/tmdb_logo.30cd724b.svg",
+  "static/media/search-icon.svg": "/static/media/search-icon.80e9d8a2.svg",
+  "index.html": "/index.html",
+  "precache-manifest.4ea05eec47aaf27ec9905c7c73c21924.js": "/precache-manifest.4ea05eec47aaf27ec9905c7c73c21924.js",
+  "service-worker.js": "/service-worker.js"
+}
